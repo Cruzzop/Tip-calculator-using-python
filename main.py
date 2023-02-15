@@ -1,8 +1,7 @@
-
 # THIS IS A TIP CALCULATOR APP 🤑🤑
 
 food_ammount = float(input("Enter your Food Ammount: $"))
-food_percentage = float(input("Enter your Food percentage: %")) /100
+food_percentage = float(input("Enter your Food percentage: %")) / 100
 tip_ammount = food_ammount * food_percentage
 
 # LETS MAKE THE TOTAL VALUE  💵 💵 💵 💵 💵 💵
